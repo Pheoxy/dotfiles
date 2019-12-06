@@ -1,0 +1,5 @@
+# Swaylock
+image="/home/dhancock/Pictures/wallpaper.jpg"
+scaling=fill
+font="Noto Sans"
+daemonize
